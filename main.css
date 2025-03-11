@@ -4,11 +4,9 @@
 }
 
 
-.image-card-type{
+.card-image{
 
-
-
-
+  border-radius: 10px 0 0 10px;
 
 }
 
@@ -16,7 +14,15 @@
 .image-container{
 
   overflow: hidden;
-  border-right: 10px 0 0 10px;
+  height: 225px;
+  overflow: hidden;
 
+
+}
+
+.card-category{
+
+
+  background-color: #a3cef1;
 
 }
